@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\bin\Debug\net6.0\Expressions.exe
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\bin\Debug\net6.0\Expressions.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\bin\Debug\net6.0\Expressions.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\bin\Debug\net6.0\Expressions.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\bin\Debug\net6.0\Expressions.pdb
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\refint\Expressions.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.pdb
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\Expressions.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Expressions\Expressions\obj\Debug\net6.0\ref\Expressions.dll
