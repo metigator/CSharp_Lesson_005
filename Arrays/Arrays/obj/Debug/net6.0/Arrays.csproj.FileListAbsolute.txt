@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_005\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
